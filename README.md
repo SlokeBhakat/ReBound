@@ -241,6 +241,6 @@ Contributions are welcome! To contribute:
 4. Push to your fork and submit a pull request.
 ## Contributors 
 
-1. Pragyan Pant 
-2. Atharv Bindal  
-3. Sloke Bhakat 
+1. Supratim Saha
+2. Pragyan Pant
+3. Atharv Bindal
